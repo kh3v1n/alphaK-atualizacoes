@@ -1,0 +1,8 @@
+{
+  "app": "compras",
+  "versao": "0.5.11",
+  "arquivo": "compras-0.5.11.akpkg",
+  "tamanho": 1774125,
+  "sha512": "3e497a6d9a5b687195efb144bee6897aef5c8890cba14cc3b3344d33a6de0e6d460e2f6595cab1bb1508fcd22437a9076ab69bd02b87beba03d2ea4d2c4dc34c",
+  "assinatura": "b6396d36f2988ccbd3308c7c7c90c2e40f5633e94de6fc188365780fc0415fbbf5a8365f606e5ee7b59d2d5f786bf4dee3d6a50d0724e104c3f1b4c493931e0f"
+}
