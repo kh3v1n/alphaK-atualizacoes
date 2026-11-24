@@ -1,8 +1,8 @@
 {
   "app": "compras",
-  "versao": "0.5.12",
-  "arquivo": "compras-0.5.12.akpkg",
-  "tamanho": 1762127,
-  "sha512": "77ff8a5fb85bcc6757df0fb64098d1693a7214643113229d22c18d9c661896000fdf80eb5b5adaa2e0cf10f91ec8bfedd9328128688dda51150c25e1f6dfb50b",
-  "assinatura": "a8658dac7148673cf053d61fd13e331cfda5c98a195cc3113087a4d044f1692e9f087b063db1f184e2b8ec78a750917e5f710f0445c937899d5e0595edebc306"
+  "versao": "0.5.13",
+  "arquivo": "compras-0.5.13.akpkg",
+  "tamanho": 1774228,
+  "sha512": "fa03a43a00d1ad7dbb978f89e891d8c16f0d89211f60ad506e8a57d1bb485bcaadf3e3b8443cb60deb573f7bcb42885b4cc274aaefc184077e89c84abbc4a0a6",
+  "assinatura": "9def6a7ce85a77393c6682bd2b1e2638fc7567e5fc954a5468b9b62604e74605bb830b4063e382b9cfca9933908c066fdb4dfaa75438b573c0db1b918e3c3808"
 }
